@@ -1,8 +1,10 @@
 # LYXAlertView
-一个提示框
+`您的star是我前进的动力，如果觉得好的话请您给个star吧！谢谢。。。`
+
 ![image](https://github.com/liyuunxiangGit/LYXAlertView/blob/master/111.gif)
+###下方层次关系
 ![image](https://github.com/liyuunxiangGit/LYXAlertView/blob/master/屏幕快照%202016-09-26%2011.52.19.png)
-__主要代码
+##主要代码
 
 用法：
 将封装的View导入。然后按照demo中的写就可以。
